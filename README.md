@@ -1,4 +1,4 @@
 # SA-P1
-First project of SA (sistemas e aplicções-systems and aplications)<br>
+First project of SA (Sistemas e aplicações-systems and applications)<br>
 Objective:<br>
-Development of a data managment system in excell VBA<br>
+Development of a data management system in excel VBA<br>
